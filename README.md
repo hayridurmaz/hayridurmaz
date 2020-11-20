@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
-- 👨‍💻 All of my projects are available at [hayridurmaz.github.io](hayridurmaz.github.io)
+- 👨‍💻 All of my projects are available at hayridurmaz.github.io
 
 - 📫 How to reach me **durmaz20@itu.edu.tr**
 
