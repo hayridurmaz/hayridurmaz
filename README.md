@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **durmaz20@itu.edu.tr**
 
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayridurmaz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayridurmaz&layout=compact&theme=dark)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayridurmaz&show_icons=true&theme=dark)
 
