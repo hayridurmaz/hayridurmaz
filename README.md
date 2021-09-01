@@ -7,11 +7,17 @@
 
 - 📫 How to reach me **durmaz20@itu.edu.tr**
 
-![Top
+<!---
+# ![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayridurmaz&layout=compact&theme=dark)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayridurmaz&show_icons=true&theme=dark)
+-->
 
+![Top
+Langs](https://github.com/hayridurmaz/github-stats/blob/master/generated/languages.svg)
+
+![](https://github.com/hayridurmaz/github-stats/blob/master/generated/overview.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
