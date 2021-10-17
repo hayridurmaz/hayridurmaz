@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at hayridurmaz.github.io
+- 👨‍💻 All of my projects are available at [hayridurmaz.github.io](https://hayridurmaz.github.io)
 
-- 📫 How to reach me **durmaz20@itu.edu.tr**
+- 📫 Reach me at; [here](https://hayridurmaz.github.io/#contact), just send an email; **durmaz20@itu.edu.tr**
 
 <!---
 # ![Top
