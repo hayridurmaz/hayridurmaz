@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hayri Durmaz</h1>
-<h3 align="center">Software Engineer at ASELSAN A.S., Master Student at ITU</h3>
+<h1 align="center">Hi 👋, I'm Hayri Durmaz, M.Sc.</h1>
+<h3 align="center">Software Engineer at ASELSAN A.S.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
