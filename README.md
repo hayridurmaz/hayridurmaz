@@ -63,10 +63,6 @@ I'm **Hayri Durmaz**, a passionate Software Engineer dedicated to building robus
   <img src="https://raw.githubusercontent.com/hayridurmaz/github-stats/master/generated/overview.svg" alt="Overview" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=hayridurmaz&theme=dark" alt="GitHub Streak" />
-</div>
-
 ---
 
 ### 📫 Connect with me:
