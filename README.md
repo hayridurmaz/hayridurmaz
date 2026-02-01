@@ -56,12 +56,11 @@ I'm **Hayri Durmaz**, a passionate Software Engineer dedicated to building robus
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hayridurmaz&theme=radical&no-frame=true&margin-w=15" alt="trophies" />
+  <img src="https://raw.githubusercontent.com/hayridurmaz/github-stats/master/generated/languages.svg" alt="Top Langs" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hayridurmaz&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayridurmaz&layout=compact&theme=radical&hide_progress=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/hayridurmaz/github-stats/master/generated/overview.svg" alt="Overview" />
 </div>
 
 <div align="center">
